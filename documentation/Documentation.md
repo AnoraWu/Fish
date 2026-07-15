@@ -1,4 +1,5 @@
 ### Note: This replication package is not complete. This document only records code files in MPA-Fish-Effects-Replication folder that have been checked by Anora Wu (wwu54@jh.edu) 
+### Future Change: Under Michael's suggestion, the protection cells should be contiguous in the simulations. 
 
 ### prep
 
