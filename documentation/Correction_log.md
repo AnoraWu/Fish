@@ -1,0 +1,7 @@
+- [x] fishlife.R - no change
+	- [x] `/data/raw/FishLife.csv`
+- [x] fishlife_cleaning.do - no change
+	- [x] `data/intermediate/life_history.dta`
+- [ ] FAO_cleaning.do
+	- [ ] `data/intermediate/FAO_country_wide_GLOBAL.dta`
+	- [ ] `data/intermediate/FAO_country_long_GLOBAL.dta`
