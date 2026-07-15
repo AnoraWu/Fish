@@ -1,3 +1,4 @@
+### Note: This replication package is not complete. This document only records code files in MPA-Fish-Effects-Replication folder that have been checked by Anora Wu (wwu54@jh.edu) 
 
 ### prep
 
@@ -85,5 +86,3 @@
 	2. Costello, C., D. Ovando, and T. Clavelle et al., “Global fishery prospects under contrasting management regimes,” Proceedings of the National Academy of Sciences, 2016, 113 (18), 5125–5129
 
 	
-
-Flanders Marine Institute (2023). Maritime Boundaries Geodatabase: Maritime Boundaries and Exclusive Economic Zones (200NM), version 12. Available online at https://www.marineregions.org/. https://doi.org/10.14284/632
